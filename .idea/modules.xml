@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SolidPrinciples/SolidPrinciples.iml" filepath="$PROJECT_DIR$/../SolidPrinciples/SolidPrinciples.iml" />
       <module fileurl="file://$PROJECT_DIR$/algods.iml" filepath="$PROJECT_DIR$/algods.iml" />
     </modules>
   </component>
